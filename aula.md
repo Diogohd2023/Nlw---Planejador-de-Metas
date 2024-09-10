@@ -60,3 +60,8 @@ Acesso a propriedades de objetos
 # Condicionais 
 
 - Switch
+
+## Modulos em Node.js
+
+Importaçao de módulos (require, CommonJs)
+Biblioteca "inquirer" para criar prompts interativos
