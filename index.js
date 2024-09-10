@@ -1,20 +1,11 @@
+function start () {
 
-let meta = {
-    value: "ler um livro por mes",
-    checked: false,  
-    }
+    let cont = 0 
 
-let metas = [
-    meta,
-    {
-        value: "caminhar 20 minutos todos os dias",
-        checked: true
-    }
-]
+     while (cont < 10){
+        console.log(cont)
+        cont ++ // cont = cont + 1
+     }
+}
 
-console.log(metas[1].value)
-
-// Function  // Arrow function
-//const criarMeta = () => {}
-
-//function criarMeta() {}
+start()
