@@ -3,6 +3,8 @@
 Maneira de dar instruçao ao computador.
 Como um lego, voce ira utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
+**Algoritmo**: Sequencia de passos logica e finita para resoluçao de um problema.
+
 ## Peças de uma linguagem
 
 -Comentarios
@@ -32,34 +34,36 @@ Boolean: true , false
 
 ## Operadores
 
-Operador de atribuiçao de valor
-Operador de contatenaçao
+Operador de atribuiçao de valor: =
+Operador de contatenaçao: +
+Operadores de comparaçao: == , != , > , < , >= , <=
 
 ## Estrutura de dados;
 
-### Arrays;
+## Arrays;
 
 Uma lista que contem qualquer tipo de dado
 
-### Objects
+## Objects
 
 Atributos e métodos
 Criaçao e manipulação de objetos
 Acesso a propriedades de objetos
 
-### Function
+## Function
 
 - Criar , passar argumento
 - Executar
 - Arrow function / named function
 
-# Estrutura de repetiçao 
+## Estrutura de repetiçao 
 
 - While 
 
-# Condicionais 
+## Condicionais 
 
 - Switch
+- if/else
 
 ## Modulos em Node.js
 
