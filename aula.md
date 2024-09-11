@@ -37,12 +37,14 @@ Boolean: true , false
 Operador de atribuiçao de valor: =
 Operador de contatenaçao: +
 Operadores de comparaçao: == , != , > , < , >= , <=
+Spread operator  ...
 
 ## Estrutura de dados;
 
 ## Arrays;
 
 Uma lista que contem qualquer tipo de dado
+Metodos de array: push , [find , forEach , filter] : HDF (Higher Order Functions)
 
 ## Objects
 
@@ -69,3 +71,7 @@ Acesso a propriedades de objetos
 
 Importaçao de módulos (require, CommonJs)
 Biblioteca "inquirer" para criar prompts interativos
+
+## Programação assincronas e Promises
+
+Uso de funçoes assincronas (async/await)
