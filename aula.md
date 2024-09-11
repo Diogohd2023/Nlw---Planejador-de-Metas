@@ -71,6 +71,13 @@ Acesso a propriedades de objetos
 
 Importaçao de módulos (require, CommonJs)
 Biblioteca "inquirer" para criar prompts interativos
+Fs (File System)
+
+## JSON
+
+Javascript Object Notation (.json)
+JSON.parse() transforma de JSON para Js
+JSON.stringify() transforma de Js para JSON
 
 ## Programação assincronas e Promises
 
