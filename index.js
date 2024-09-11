@@ -59,7 +59,7 @@ const metasRealizadas = async () => {
 
     await select({
         message: "Metas realizadas",
-        choices: {...realizadas}
+        choices: [...realizadas]
     })
 }
 
